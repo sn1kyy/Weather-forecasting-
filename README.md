@@ -20,7 +20,7 @@ The project utilizes a public weather dataset. Download or access it here:
 
 
 ## How to Use
----
+
 
 1. **Open the Colab notebook** using the link above.
 2. **Upload the dataset** as described in the notebook instructions.
@@ -28,7 +28,7 @@ The project utilizes a public weather dataset. Download or access it here:
 
 
 ## Dependencies
----
+
 All required Python libraries are installed automatically in the Colab notebook, including:
 - pandas
 - numpy
@@ -36,7 +36,7 @@ All required Python libraries are installed automatically in the Colab notebook,
 - scikit-learn
 
 ## Features
----
+
 - Data preprocessing and cleaning
 - Exploratory data analysis and visualization
 - Machine learning model training and evaluation
