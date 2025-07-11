@@ -6,7 +6,7 @@ A machine learning-based weather forecasting project developed and demonstrated 
 I will be working on the user interface (yes using django) of this project - although not now but shortly in the future.
 
 ## Project Description
----
+
 This project uses historical weather data and machine learning techniques to predict future weather conditions. The interactive Google Colab notebook walks users through data loading, preprocessing, exploratory analysis, model training, and evaluation. The workflow is fully reproducible and can be adapted for other datasets or forecasting tasks.
 
 ### Access the Colab Notebook 
